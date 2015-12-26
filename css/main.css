@@ -1,0 +1,125 @@
+.main{
+  margin: 2em 6em;
+}
+
+body{
+  background-image: url("http://d1u9biwaxjngwg.cloudfront.net/covers/v1.3.0-cover.jpg");
+}
+
+.data-block{
+  background-color: white;
+  padding-top: .5em;
+  padding-bottom: 1.2em;
+  padding-left: 3.25em;
+  padding-right: 3.25em;
+  margin-top: 1.5em;
+  font-family: "Microsoft Jhenghei";
+  color : #333;
+  border :1px #DDD solid;
+  overflow: hidden;
+  border-radius: 5px;
+}
+.welcome{
+  padding: 13px;
+  //border-left: 9px solid #33CC00;
+  //border-top-left-radius: 5px;
+  //border-bottom: 1px solid #DDD;
+  margin-bottom: 15px;
+  color:white;
+  font-size : 40px;
+  font-family: "Georgia";
+  text-shadow:#000 1px 1px 3px;
+}
+.head-info{
+  color : #555;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.data-block{
+  padding-top: .5em;
+  padding-bottom: 1.2em;
+  padding-left: 3.25em;
+  padding-right: 3.25em;
+  box-shadow: #666 0px 0px 5px ;
+  font-family: "Microsoft Jhenghei";
+  color : #333;
+  border :1px #DDD solid;
+  overflow: hidden;
+  border-radius: 5px;
+}
+
+.clickable-item{
+  cursor: pointer;
+}
+
+.gitbuh-button{
+  background-image: linear-gradient(#8ADD6D, #60B044);
+  background-color: #60B044;
+  border-bottom-color : #5CA941;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  border-bottom-style: solid;
+  border-bottom-width: 1px;
+  border-image-outset: 0 0 0 0;
+  border-image-repeat: stretch stretch;
+  border-image-slice: 100% 100% 100% 100%;
+  border-image-source: none;
+  border-image-width: 1 1 1 1;
+  border-left-color: #5CA941;
+  border-left-style: solid;
+  border-left-width: 1px;
+  border-right-color: #5CA941;
+  border-right-style: solid;
+  border-right-width: 1px;
+  border-top-color: #5CA941;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 3px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  box-sizing: border-box;
+  color: #FFF;
+  cursor: pointer;
+  display: block;
+  float: right;
+  margin-left: 10px;
+  font-weight: 700;
+  line-height: 19px;
+  padding-top : 8px;
+  padding-bottom : 8px;
+  padding-left: 12px;
+  padding-right: 12px;
+  position: relative;
+  text-align: center;
+  text-shadow: rgba(0, 0, 0, 0.15) 0px -1px 0px;
+  vertical-align: middle;
+  white-space: nowrap;
+  width: 100px;
+  word-wrap: break-word;
+}
+
+.wide-block{
+  width: 90% !important;
+  margin-bottom: 3.5em !important;
+}
+
+.wide-block li{
+  list-style: none;
+}
+
+.wide-block ol{
+  list-style: none;
+}
+
+.wide-block h3{
+  font-size : 20px;
+}
+
+.meta-Highlight{
+  margin-top:0.3em !important;
+}
+
+.h-underline{
+  padding-bottom: 10px;
+  border-bottom: 1px solid #EEE;
+}

@@ -1,0 +1,33 @@
+.tag-text{
+  font-family: #333;
+  font-size:14px;
+}
+
+.tag-text li{
+
+  padding:.5em;
+  list-style: none;
+}
+
+.tag-text a{
+  color:#E04D37;
+}
+
+.tag-detail{
+  color: #3399FF !important;
+  padding: 15px;
+  text-decoration: underline;
+}
+
+.pencil{
+  color: #33CC00;
+  padding-left: 5px;
+}
+
+.limited{
+  width : 150px !important;
+}
+
+.hideThis{
+  display: none;
+}
